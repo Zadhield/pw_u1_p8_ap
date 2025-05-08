@@ -1,0 +1,21 @@
+.container {
+    display: flex;
+    justify-content: center;
+}
+.matriz {
+    display: grid;
+    text-align: center;
+    background: cyan;
+    grid-column: 75px 75px 75px ;
+    grid-row: 75px 75px 75px;
+    margin-left: 400px;
+    margin-right: 400px;
+    padding: 5px;
+}
+.ingresar {
+    display: flex;
+    flex-direction: column;
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-top: 12px;
+}
